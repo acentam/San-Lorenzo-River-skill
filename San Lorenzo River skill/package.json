@@ -1,0 +1,9 @@
+{
+  "name": "san-lorenzo-river-skill",
+  "version": "0.0.0",
+  "description": "San Lorenzo River skill",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
